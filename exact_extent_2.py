@@ -11,7 +11,8 @@ def exact_extent(n):
         print('YES')
     else:
         print('NO')
-    
-                        
+
+
 exact_extent(6)
 exact_extent(5)
+
